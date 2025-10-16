@@ -6,15 +6,21 @@ Solutions against various TryHackMe Rooms
 ♦ Welcome \
 ♦ Introductory Researching \
 ♦ Linux Fundamentals Part 1 \
+♦ Linux Fundamentals Part 2 \
+♦ Linux Fundamentals Part 3 \
 ♦ What is Networking? \
 ♦ Careers in Cyber \
 ♦ Learning Cyber Security \
+♦ Intro to LAN \
 ♦ Advent of Cyber 2022 \
 ♦ Hack2Win: How you can grab extra tickets \
 ♦ W1seGuy \
+<!-- ♦ How Websites Work \ -->
+<!-- ♦ Putting it all together \ -->
+♦ Windows Fundamentals 1 \
+♦ DNS in Detail \
+♦ HTTP in Detail \
 ♦ How Websites Work \
-♦ Putting it all together \
-♦ Windows Fundamentals 1
 
 ## Learning Path Takens
 

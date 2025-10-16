@@ -15,12 +15,14 @@ Solutions against various TryHackMe Rooms
 ♦ Advent of Cyber 2022 \
 ♦ Hack2Win: How you can grab extra tickets \
 ♦ W1seGuy \
-<!-- ♦ How Websites Work \ -->
-<!-- ♦ Putting it all together \ -->
+<!-- ♦ How Websites Work  -->
+♦ Putting it all together \
 ♦ Windows Fundamentals 1 \
 ♦ DNS in Detail \
 ♦ HTTP in Detail \
 ♦ How Websites Work \
+♦ Windows Fundamentals 2 \
+♦ Cryptography Basics \
 
 ## Learning Path Takens
 

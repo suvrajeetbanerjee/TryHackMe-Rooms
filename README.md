@@ -21,7 +21,10 @@ Solutions against various TryHackMe Rooms
 ♦ HTTP in Detail \
 ♦ How Websites Work \
 ♦ Windows Fundamentals 2 \
-♦ Cryptography Basics 
+♦ Cryptography Basics \
+♦ Windows Command Line
+
+
 <!-- ♦ How Websites Work  -->
 
 ## Learning Path Takens

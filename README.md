@@ -22,7 +22,8 @@ Solutions against various TryHackMe Rooms
 ♦ How Websites Work \
 ♦ Windows Fundamentals 2 \
 ♦ Cryptography Basics \
-♦ Windows Command Line
+♦ Windows Command Line \
+♦ Windows PowerShell
 
 
 <!-- ♦ How Websites Work  -->

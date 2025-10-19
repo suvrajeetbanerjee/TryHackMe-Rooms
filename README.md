@@ -23,7 +23,7 @@ Solutions against various TryHackMe Rooms
 ♦ Windows Fundamentals 2 \
 ♦ Cryptography Basics \
 ♦ Windows Command Line \
-♦ Windows PowerShell
+♦ Windows Fundamentals 3 \
 
 
 <!-- ♦ How Websites Work  -->

@@ -14,7 +14,7 @@ Solutions against various TryHackMe Rooms
 ♦ Intro to LAN \
 ♦ Advent of Cyber 2022 \
 ♦ Hack2Win: How you can grab extra tickets \
-♦ W1seGuy 
+♦ W1seGuy \
 ♦ Putting it all together \
 ♦ Windows Fundamentals 1 \
 ♦ DNS in Detail \
@@ -23,7 +23,7 @@ Solutions against various TryHackMe Rooms
 ♦ Windows Fundamentals 2 \
 ♦ Cryptography Basics \
 ♦ Windows Command Line \
-♦ Windows Fundamentals 3 \
+♦ Windows Fundamentals 3
 
 
 <!-- ♦ How Websites Work  -->

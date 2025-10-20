@@ -23,7 +23,10 @@ Solutions against various TryHackMe Rooms
 ♦ Windows Fundamentals 2 \
 ♦ Cryptography Basics \
 ♦ Windows Command Line \
-♦ Windows Fundamentals 3
+♦ Windows Fundamentals 3 \
+♦ Defensive Security Intro \
+♦ Offensive Security Intro \
+♦ Search Skills
 
 
 <!-- ♦ How Websites Work  -->

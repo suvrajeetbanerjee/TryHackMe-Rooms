@@ -1,5 +1,5 @@
 # TryHackMe-Rooms
-Solutions against various TryHackMe Rooms
+Solutions against various TryHackMe completed Rooms
 
 ## Rooms Completed
 
@@ -26,7 +26,9 @@ Solutions against various TryHackMe Rooms
 ♦ Windows Fundamentals 3 \
 ♦ Defensive Security Intro \
 ♦ Offensive Security Intro \
-♦ Search Skills
+♦ Search Skills \
+♦ Active Directory Basics
+
 
 
 <!-- ♦ How Websites Work  -->

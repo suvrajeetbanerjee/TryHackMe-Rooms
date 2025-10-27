@@ -27,7 +27,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Defensive Security Intro \
 ♦ Offensive Security Intro \
 ♦ Search Skills \
-♦ Active Directory Basics
+♦ Active Directory Basics \
+♦ Networking Concepts \
+♦ Cryptography Basics
 
 
 

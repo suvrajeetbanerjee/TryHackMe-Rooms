@@ -29,7 +29,10 @@ Solutions against various TryHackMe completed Rooms
 ♦ Search Skills \
 ♦ Active Directory Basics \
 ♦ Networking Concepts \
-♦ Cryptography Basics
+♦ Cryptography Basics \
+♦ Moniker Link (CVE-2024-21413) \
+♦ Web Application Basics \
+♦ Hydra
 
 
 

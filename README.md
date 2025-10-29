@@ -32,7 +32,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Cryptography Basics \
 ♦ Moniker Link (CVE-2024-21413) \
 ♦ Web Application Basics \
-♦ Hydra
+♦ Hydra \
+♦ Security Principles
+
 
 
 

@@ -1,7 +1,7 @@
 # TryHackMe-Rooms
 Solutions against various TryHackMe completed Rooms
 
-## Rooms Completed
+## Rooms Completed:
 
 ♦ Welcome \
 ♦ Introductory Researching \
@@ -43,14 +43,14 @@ Solutions against various TryHackMe completed Rooms
 
 <!-- ♦ How Websites Work  -->
 
-## Learning Path Takens
+## Learning Path Taken:
 
 ✔ Pre Security \
 ✔ Cyber Security 101 \
 ✔ Jr Penetration Tester \
-✔ Web Fundamentals
+✔ Web Fundamentals \
+✔ Security Engineer
 
 
 
-
-*Complete approach taken to solve the problem statements agsinst the tooms - to be shared soon*
+*Complete approach taken to solve the problem statements agsinst the tooms - to be shared soon !!!*

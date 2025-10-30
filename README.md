@@ -33,7 +33,10 @@ Solutions against various TryHackMe completed Rooms
 ♦ Moniker Link (CVE-2024-21413) \
 ♦ Web Application Basics \
 ♦ Hydra \
-♦ Security Principles
+♦ Security Principles \
+♦ Training Impact on Teams
+
+
 
 
 

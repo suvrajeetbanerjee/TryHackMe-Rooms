@@ -34,7 +34,10 @@ Solutions against various TryHackMe completed Rooms
 ♦ Web Application Basics \
 ♦ Hydra \
 ♦ Security Principles \
-♦ Training Impact on Teams
+♦ Training Impact on Teams \
+♦ Introduction to SIEM \
+♦ CyberChef: The Basics
+
 
 
 

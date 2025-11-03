@@ -37,7 +37,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Training Impact on Teams \
 ♦ Introduction to SIEM \
 ♦ CyberChef: The Basics \
-♦ Security Engineer Intro
+♦ Security Engineer Intro \
+♦ Governance & Regulation \
+♦ Secure Network Architecture
 
 
 

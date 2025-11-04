@@ -39,7 +39,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ CyberChef: The Basics \
 ♦ Security Engineer Intro \
 ♦ Governance & Regulation \
-♦ Secure Network Architecture
+♦ Secure Network Architecture \
+♦ OWASP Top 10 - 2021
+
 
 
 

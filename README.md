@@ -41,7 +41,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Governance & Regulation \
 ♦ Secure Network Architecture \
 ♦ OWASP Top 10 - 2021 \
-♦ Pentesting Fundamentals
+♦ Pentesting Fundamentals \
+♦ Passive Reconnaissance
+
 
 
 

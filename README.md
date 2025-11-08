@@ -43,7 +43,8 @@ Solutions against various TryHackMe completed Rooms
 ♦ OWASP Top 10 - 2021 \
 ♦ Pentesting Fundamentals \
 ♦ Passive Reconnaissance \
-♦ Active Reconnaissance
+♦ Active Reconnaissance \
+♦ Vulnerabilities 101
 
 
 

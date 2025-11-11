@@ -44,7 +44,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Pentesting Fundamentals \
 ♦ Passive Reconnaissance \
 ♦ Active Reconnaissance \
-♦ Vulnerabilities 101
+♦ Vulnerabilities 101 \
+♦ Junior Security Analyst Intro
+
 
 
 

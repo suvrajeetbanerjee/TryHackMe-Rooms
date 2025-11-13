@@ -45,7 +45,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Passive Reconnaissance \
 ♦ Active Reconnaissance \
 ♦ Vulnerabilities 101 \
-♦ Junior Security Analyst Intro
+♦ Junior Security Analyst Intro \
+♦ Pyramid Of Pain
+
 
 
 

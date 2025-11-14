@@ -46,7 +46,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Active Reconnaissance \
 ♦ Vulnerabilities 101 \
 ♦ Junior Security Analyst Intro \
-♦ Pyramid Of Pain
+♦ Pyramid Of Pain \
+♦ Cyber Kill Chain
+
 
 
 

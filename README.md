@@ -48,7 +48,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Junior Security Analyst Intro \
 ♦ Pyramid Of Pain \
 ♦ Cyber Kill Chain \
-♦ Unified Kill Chain
+♦ Unified Kill Chain \
+♦ Introduction to EDR
+
 
 
 

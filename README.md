@@ -49,7 +49,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Pyramid Of Pain \
 ♦ Cyber Kill Chain \
 ♦ Unified Kill Chain \
-♦ Introduction to EDR
+♦ Introduction to EDR \
+♦ Linux Logging for SOC
+
 
 
 

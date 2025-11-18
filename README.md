@@ -50,7 +50,8 @@ Solutions against various TryHackMe completed Rooms
 ♦ Cyber Kill Chain \
 ♦ Unified Kill Chain \
 ♦ Introduction to EDR \
-♦ Linux Logging for SOC
+♦ Linux Logging for SOC \
+♦ Network Traffic Basics
 
 
 

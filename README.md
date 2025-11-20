@@ -51,7 +51,14 @@ Solutions against various TryHackMe completed Rooms
 ♦ Unified Kill Chain \
 ♦ Introduction to EDR \
 ♦ Linux Logging for SOC \
-♦ Network Traffic Basics
+♦ Network Traffic Basics \
+♦ Cluster Hardening 
+<!-- 
+♦ Phishing Analysis Fundamentals
+
+
+-->
+
 
 
 

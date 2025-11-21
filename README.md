@@ -52,12 +52,11 @@ Solutions against various TryHackMe completed Rooms
 ♦ Introduction to EDR \
 ♦ Linux Logging for SOC \
 ♦ Network Traffic Basics \
-♦ Cluster Hardening 
-<!-- 
+♦ Cluster Hardening \
 ♦ Phishing Analysis Fundamentals
 
 
--->
+
 
 
 

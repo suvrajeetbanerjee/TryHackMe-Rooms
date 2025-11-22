@@ -53,7 +53,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Linux Logging for SOC \
 ♦ Network Traffic Basics \
 ♦ Cluster Hardening \
-♦ Phishing Analysis Fundamentals
+♦ Phishing Analysis Fundamentals \
+♦ Malware Classification
+ 
 
 
 

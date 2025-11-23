@@ -54,7 +54,8 @@ Solutions against various TryHackMe completed Rooms
 ♦ Network Traffic Basics \
 ♦ Cluster Hardening \
 ♦ Phishing Analysis Fundamentals \
-♦ Malware Classification
+♦ Malware Classification \
+♦ Network Security Essentials
  
 
 

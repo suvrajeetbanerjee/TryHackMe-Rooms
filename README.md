@@ -55,7 +55,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Cluster Hardening \
 ♦ Phishing Analysis Fundamentals \
 ♦ Malware Classification \
-♦ Network Security Essentials
+♦ Network Security Essentials \
+♦ K8s Best Security Practices
+
  
 
 

@@ -56,7 +56,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Phishing Analysis Fundamentals \
 ♦ Malware Classification \
 ♦ Network Security Essentials \
-♦ K8s Best Security Practices
+♦ K8s Best Security Practices \
+♦ Microservices Architectures
+
 
  
 

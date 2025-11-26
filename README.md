@@ -57,7 +57,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Malware Classification \
 ♦ Network Security Essentials \
 ♦ K8s Best Security Practices \
-♦ Microservices Architectures
+♦ Microservices Architectures \
+♦ Python Basics
+
 
 
  

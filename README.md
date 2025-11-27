@@ -58,7 +58,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Network Security Essentials \
 ♦ K8s Best Security Practices \
 ♦ Microservices Architectures \
-♦ Python Basics
+♦ Python Basics \
+♦ Central European Standard Time
+ 
 
 
 

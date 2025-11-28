@@ -59,7 +59,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ K8s Best Security Practices \
 ♦ Microservices Architectures \
 ♦ Python Basics \
-♦ Central European Standard Time
+♦ WAF: Introduction \
+♦ Linux Threat Detection 1
+
  
 
 

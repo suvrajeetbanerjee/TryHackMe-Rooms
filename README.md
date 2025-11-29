@@ -60,7 +60,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Microservices Architectures \
 ♦ Python Basics \
 ♦ WAF: Introduction \
-♦ Linux Threat Detection 1
+♦ Linux Threat Detection 1 \
+♦ K8s Runtime Security
+
 
  
 

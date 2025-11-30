@@ -61,7 +61,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ Python Basics \
 ♦ WAF: Introduction \
 ♦ Linux Threat Detection 1 \
-♦ K8s Runtime Security
+♦ K8s Runtime Security \
+♦ MBR and GPT Analysis
+
 
 
  

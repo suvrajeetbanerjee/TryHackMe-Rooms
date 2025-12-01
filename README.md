@@ -63,7 +63,10 @@ Solutions against various TryHackMe completed Rooms
 ♦ Linux Threat Detection 1 \
 ♦ K8s Runtime Security \
 ♦ MBR and GPT Analysis \
-♦ Incident Response and Forensics
+♦ Investigating Windows
+
+
+<!-- ♦ Incident Response and Forensics -->
 
 
 

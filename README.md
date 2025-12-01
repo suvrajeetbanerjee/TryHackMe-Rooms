@@ -62,7 +62,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ WAF: Introduction \
 ♦ Linux Threat Detection 1 \
 ♦ K8s Runtime Security \
-♦ MBR and GPT Analysis
+♦ MBR and GPT Analysis \
+♦ Incident Response and Forensics
+
 
 
 

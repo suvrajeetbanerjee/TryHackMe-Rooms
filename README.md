@@ -65,6 +65,12 @@ Solutions against various TryHackMe completed Rooms
 ♦ MBR and GPT Analysis \
 ♦ Investigating Windows
 
+---
+
+#### 🗡💡 Advent Of Cyber 2025 🛢🏆
+
+- 📌 Advent of Cyber Prep Track
+
 
 <!-- ♦ Incident Response and Forensics -->
 

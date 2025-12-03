@@ -63,7 +63,8 @@ Solutions against various TryHackMe completed Rooms
 ♦ Linux Threat Detection 1 \
 ♦ K8s Runtime Security \
 ♦ MBR and GPT Analysis \
-♦ Investigating Windows
+♦ Investigating Windows \
+♦ Nessus
 
 ---
 

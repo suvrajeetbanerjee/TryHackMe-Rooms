@@ -1,5 +1,5 @@
 # TryHackMe-Rooms
-Solutions against various TryHackMe completed Rooms
+**Various TryHackMe completed Rooms'**
 
 ## Rooms Completed:
 
@@ -64,7 +64,9 @@ Solutions against various TryHackMe completed Rooms
 ♦ K8s Runtime Security \
 ♦ MBR and GPT Analysis \
 ♦ Investigating Windows \
-♦ Nessus
+♦ Nessus \
+♦ Breaking Crypto the Simple Way
+
 
 ---
 

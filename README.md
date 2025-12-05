@@ -65,7 +65,9 @@
 ♦ MBR and GPT Analysis \
 ♦ Investigating Windows \
 ♦ Nessus \
-♦ Breaking Crypto the Simple Way
+♦ Breaking Crypto the Simple Way \
+♦ Intro to Pipeline Automation
+
 
 
 ---

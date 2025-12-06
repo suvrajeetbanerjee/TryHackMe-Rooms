@@ -66,7 +66,9 @@
 ♦ Investigating Windows \
 ♦ Nessus \
 ♦ Breaking Crypto the Simple Way \
-♦ Intro to Pipeline Automation
+♦ Intro to Pipeline Automation \
+♦ Input Manipulation & Prompt Injection
+ 
 
 
 

@@ -67,7 +67,10 @@
 ♦ Nessus \
 ♦ Breaking Crypto the Simple Way \
 ♦ Intro to Pipeline Automation \
-♦ Input Manipulation & Prompt Injection
+♦ Input Manipulation & Prompt Injection \
+♦ Log Analysis with SIEM \
+♦ Windows Logging for SOC
+
  
 
 

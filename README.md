@@ -69,7 +69,9 @@
 ♦ Intro to Pipeline Automation \
 ♦ Input Manipulation & Prompt Injection \
 ♦ Log Analysis with SIEM \
-♦ Windows Logging for SOC
+♦ Windows Logging for SOC \
+♦ Custom Tooling Using Python
+
 
  
 

@@ -70,7 +70,9 @@
 ♦ Input Manipulation & Prompt Injection \
 ♦ Log Analysis with SIEM \
 ♦ Windows Logging for SOC \
-♦ Custom Tooling Using Python
+♦ Custom Tooling Using Python \
+♦ Memory Analysis Introduction
+
 
 
  

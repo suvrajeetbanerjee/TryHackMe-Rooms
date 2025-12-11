@@ -72,7 +72,8 @@
 ♦ Windows Logging for SOC \
 ♦ Custom Tooling Using Python \
 ♦ Memory Analysis Introduction \
-♦ Snyk Open Source
+♦ Snyk Open Source \
+♦ Snort
 
 
 

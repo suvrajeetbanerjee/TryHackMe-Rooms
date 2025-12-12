@@ -87,6 +87,8 @@
 #### 🗡💡 Advent Of Cyber 2025 🛢🏆
 
 - 📌 Advent of Cyber Prep Track
+- 📌 Linux CLI - Shells Bells
+
 
 
 <!-- ♦ Incident Response and Forensics -->

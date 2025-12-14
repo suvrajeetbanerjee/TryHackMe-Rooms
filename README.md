@@ -89,6 +89,8 @@
 - 📌 Advent of Cyber Prep Track
 - 📌 Linux CLI - Shells Bells
 - 📌 Phishing - Merry Clickmas
+- 📌 Splunk Basics - Did you SIEM?
+
 
 
 

@@ -90,6 +90,8 @@
 - 📌 Linux CLI - Shells Bells
 - 📌 Phishing - Merry Clickmas
 - 📌 Splunk Basics - Did you SIEM?
+- 📌 AI in Security - old sAInt nick
+
 
 
 

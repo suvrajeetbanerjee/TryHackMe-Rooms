@@ -91,6 +91,8 @@
 - 📌 Phishing - Merry Clickmas
 - 📌 Splunk Basics - Did you SIEM?
 - 📌 AI in Security - old sAInt nick
+- 📌 IDOR - Santa’s Little IDOR
+
 
 
 

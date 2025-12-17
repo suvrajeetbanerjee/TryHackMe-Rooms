@@ -92,6 +92,8 @@
 - 📌 Splunk Basics - Did you SIEM?
 - 📌 AI in Security - old sAInt nick
 - 📌 IDOR - Santa’s Little IDOR
+- 📌 Malware Analysis - Egg-xecutable
+
 
 
 

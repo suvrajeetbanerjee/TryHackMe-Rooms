@@ -93,6 +93,8 @@
 - 📌 AI in Security - old sAInt nick
 - 📌 IDOR - Santa’s Little IDOR
 - 📌 Malware Analysis - Egg-xecutable
+- 📌 Network Discovery - Scan-ta Clause
+
 
 
 

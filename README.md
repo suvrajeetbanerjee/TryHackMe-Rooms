@@ -94,6 +94,8 @@
 - 📌 IDOR - Santa’s Little IDOR
 - 📌 Malware Analysis - Egg-xecutable
 - 📌 Network Discovery - Scan-ta Clause
+- 📌 Prompt Injection - Sched-yule conflict
+
 
 
 

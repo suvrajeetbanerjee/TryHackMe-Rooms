@@ -97,6 +97,8 @@
 - 📌 Prompt Injection - Sched-yule conflict
 - 📌 Passwords - A Cracking Christmas
 - 📌 SOC Alert Triaging - Tinsel Triage
+- 📌 XSS - Merry XSSMas
+
 
 
 

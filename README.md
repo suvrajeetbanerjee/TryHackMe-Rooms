@@ -98,6 +98,8 @@
 - 📌 Passwords - A Cracking Christmas
 - 📌 SOC Alert Triaging - Tinsel Triage
 - 📌 XSS - Merry XSSMas
+- 📌 Phishing - Phishmas Greetings
+
 
 
 

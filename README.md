@@ -101,6 +101,8 @@
 - 📌 Phishing - Phishmas Greetings
 - 📌 YARA Rules - YARA mean one!
 - 📌 Containers - DoorDasher's Demise
+- 📌 Web Attack Forensics - Drone Alone
+
  
 
 

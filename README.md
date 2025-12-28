@@ -103,6 +103,8 @@
 - 📌 Containers - DoorDasher's Demise
 - 📌 Web Attack Forensics - Drone Alone
 - 📌 Forensics - Registry Furensics
+- 📌 CyberChef - Hoperation Save McSkidy
+
 
 
  

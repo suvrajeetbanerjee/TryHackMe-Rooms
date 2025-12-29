@@ -104,6 +104,8 @@
 - 📌 Web Attack Forensics - Drone Alone
 - 📌 Forensics - Registry Furensics
 - 📌 CyberChef - Hoperation Save McSkidy
+- 📌 Obfuscation - The Egg Shell File
+
 
 
 

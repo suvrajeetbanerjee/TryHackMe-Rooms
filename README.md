@@ -105,6 +105,8 @@
 - 📌 Forensics - Registry Furensics
 - 📌 CyberChef - Hoperation Save McSkidy
 - 📌 Obfuscation - The Egg Shell File
+- 📌 ICS/Modbus - Claus for Concern
+
 
 
 

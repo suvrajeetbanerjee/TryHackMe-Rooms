@@ -73,7 +73,9 @@
 ♦ Custom Tooling Using Python \
 ♦ Memory Analysis Introduction \
 ♦ Snyk Open Source \
-♦ Snort
+♦ Snort \
+♦ n8n: CVE-2025-68613 \
+♦ Wreath
 
 
 
@@ -106,6 +108,12 @@
 - 📌 CyberChef - Hoperation Save McSkidy
 - 📌 Obfuscation - The Egg Shell File
 - 📌 ICS/Modbus - Claus for Concern
+- 📌 Race Conditions - Toy to The World
+- 📌 Malware Analysis - Malhare.exe
+- 📌 C2 Detection - Command & Carol
+- 📌 AWS Security - S3cret Santa
+- 📌 Exploitation with cURL - Hoperation Eggsploit
+
 
 
 

@@ -76,7 +76,8 @@
 ♦ Snort \
 ♦ n8n: CVE-2025-68613 \
 ♦ Wreath \
-♦ Deja Vu
+♦ Deja Vu \
+♦ OhSINT
 
 
 

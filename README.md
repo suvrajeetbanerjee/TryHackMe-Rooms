@@ -78,7 +78,9 @@
 ♦ Wreath \
 ♦ Deja Vu \
 ♦ OhSINT \
-♦ Crack the hash
+♦ Crack the hash \
+♦ Intro to Cold System Forensics
+
 
 
 

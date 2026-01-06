@@ -79,7 +79,9 @@
 ♦ Deja Vu \
 ♦ OhSINT \
 ♦ Crack the hash \
-♦ Intro to Cold System Forensics
+♦ Intro to Cold System Forensics \
+♦ Splunk: Exploring SPL
+
 
 
 

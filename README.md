@@ -80,8 +80,8 @@
 ♦ OhSINT \
 ♦ Crack the hash \
 ♦ Intro to Cold System Forensics \
-♦ Splunk: Exploring SPL
-
+♦ Splunk: Exploring SPL \
+♦ Nmap
 
 
 

@@ -81,7 +81,9 @@
 ♦ Crack the hash \
 ♦ Intro to Cold System Forensics \
 ♦ Splunk: Exploring SPL \
-♦ Nmap
+♦ Nmap \
+♦ KQL (Kusto): Introduction
+
 
 
 

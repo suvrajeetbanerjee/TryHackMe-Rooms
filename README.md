@@ -82,7 +82,9 @@
 ♦ Intro to Cold System Forensics \
 ♦ Splunk: Exploring SPL \
 ♦ Nmap \
-♦ KQL (Kusto): Introduction
+♦ KQL (Kusto): Introduction \
+♦ Django: CVE-2025-64459
+
 
 
 

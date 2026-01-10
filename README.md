@@ -83,7 +83,9 @@
 ♦ Splunk: Exploring SPL \
 ♦ Nmap \
 ♦ KQL (Kusto): Introduction \
-♦ Django: CVE-2025-64459
+♦ Django: CVE-2025-64459 \
+♦ React2Shell: CVE-2025-55182
+
 
 
 

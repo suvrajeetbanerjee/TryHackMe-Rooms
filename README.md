@@ -85,7 +85,9 @@
 ♦ KQL (Kusto): Introduction \
 ♦ Django: CVE-2025-64459 \
 ♦ React2Shell: CVE-2025-55182 \
-♦ Introduction to DevSecOps
+♦ Introduction to DevSecOps \
+♦ Roundcube: CVE-2025-49113
+
 
 
 

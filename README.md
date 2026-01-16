@@ -88,7 +88,9 @@
 ♦ Introduction to DevSecOps \
 ♦ Roundcube: CVE-2025-49113 \
 ♦ Erlang/OTP SSH: CVE-2025-32433 \
-♦ Next.js: CVE-2025-29927
+♦ Next.js: CVE-2025-29927 \
+♦ Bypass Really Simple Security
+
 
 
 

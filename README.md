@@ -89,7 +89,10 @@
 ♦ Roundcube: CVE-2025-49113 \
 ♦ Erlang/OTP SSH: CVE-2025-32433 \
 ♦ Next.js: CVE-2025-29927 \
-♦ Bypass Really Simple Security
+♦ Bypass Really Simple Security \
+♦ PaperCut: CVE-2023-27350 \
+♦ Supply Chain Attack: Lottie
+
 
 
 

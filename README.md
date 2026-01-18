@@ -91,9 +91,8 @@
 ♦ Next.js: CVE-2025-29927 \
 ♦ Bypass Really Simple Security \
 ♦ PaperCut: CVE-2023-27350 \
-♦ Supply Chain Attack: Lottie
-
-
+♦ Supply Chain Attack: Lottie \
+♦ Joomify: CVE-2023-23752
 
 
 

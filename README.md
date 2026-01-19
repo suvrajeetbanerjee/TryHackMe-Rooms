@@ -92,7 +92,10 @@
 ♦ Bypass Really Simple Security \
 ♦ PaperCut: CVE-2023-27350 \
 ♦ Supply Chain Attack: Lottie \
-♦ Joomify: CVE-2023-23752
+♦ Joomify: CVE-2023-23752 \
+♦ GitLab CVE-2023-7028
+
+
 
 
 

@@ -93,7 +93,9 @@
 ♦ PaperCut: CVE-2023-27350 \
 ♦ Supply Chain Attack: Lottie \
 ♦ Joomify: CVE-2023-23752 \
-♦ GitLab CVE-2023-7028
+♦ GitLab CVE-2023-7028 \
+♦ Confluence CVE-2023-22515
+
 
 
 

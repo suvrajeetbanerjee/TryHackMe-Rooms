@@ -94,7 +94,9 @@
 ♦ Supply Chain Attack: Lottie \
 ♦ Joomify: CVE-2023-23752 \
 ♦ GitLab CVE-2023-7028 \
-♦ Confluence CVE-2023-22515
+♦ Confluence CVE-2023-22515 \
+♦ Atlassian CVE-2022-26134
+
 
 
 

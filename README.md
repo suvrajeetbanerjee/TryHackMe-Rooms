@@ -95,7 +95,9 @@
 ♦ Joomify: CVE-2023-23752 \
 ♦ GitLab CVE-2023-7028 \
 ♦ Confluence CVE-2023-22515 \
-♦ Atlassian CVE-2022-26134
+♦ Atlassian CVE-2022-26134 \
+♦ Looney Tunables
+
 
 
 

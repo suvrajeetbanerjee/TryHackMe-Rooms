@@ -96,7 +96,9 @@
 ♦ GitLab CVE-2023-7028 \
 ♦ Confluence CVE-2023-22515 \
 ♦ Atlassian CVE-2022-26134 \
-♦ Looney Tunables
+♦ Looney Tunables \
+♦ Dirty Pipe: CVE-2022-0847
+
 
 
 

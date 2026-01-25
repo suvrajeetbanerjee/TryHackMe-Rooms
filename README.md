@@ -98,7 +98,9 @@
 ♦ Atlassian CVE-2022-26134 \
 ♦ Looney Tunables \
 ♦ Dirty Pipe: CVE-2022-0847 \
-♦ Pwnkit: CVE-2021-4034
+♦ Pwnkit: CVE-2021-4034 \
+♦ PrintNightmare
+
 
 
 

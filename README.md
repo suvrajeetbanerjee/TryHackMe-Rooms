@@ -99,7 +99,9 @@
 ♦ Looney Tunables \
 ♦ Dirty Pipe: CVE-2022-0847 \
 ♦ Pwnkit: CVE-2021-4034 \
-♦ PrintNightmare
+♦ PrintNightmare \
+♦ OWASP Juice Shop
+
 
 
 

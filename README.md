@@ -100,7 +100,8 @@
 ♦ Dirty Pipe: CVE-2022-0847 \
 ♦ Pwnkit: CVE-2021-4034 \
 ♦ PrintNightmare \
-♦ OWASP Juice Shop
+♦ OWASP Juice Shop \
+♦ History of Malware
 
 
 

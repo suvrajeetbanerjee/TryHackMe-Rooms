@@ -101,7 +101,9 @@
 ♦ Pwnkit: CVE-2021-4034 \
 ♦ PrintNightmare \
 ♦ OWASP Juice Shop \
-♦ History of Malware
+♦ History of Malware \
+♦ MAL: Malware Introductory
+
 
 
 

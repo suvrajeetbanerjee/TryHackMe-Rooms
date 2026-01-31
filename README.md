@@ -102,7 +102,9 @@
 ♦ PrintNightmare \
 ♦ OWASP Juice Shop \
 ♦ History of Malware \
-♦ MAL: Malware Introductory
+♦ MAL: Malware Introductory \
+♦ Basic Malware RE
+
 
 
 

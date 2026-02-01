@@ -103,7 +103,10 @@
 ♦ OWASP Juice Shop \
 ♦ History of Malware \
 ♦ MAL: Malware Introductory \
-♦ Basic Malware RE
+♦ Basic Malware RE \
+♦ HTTP Request Smuggling \
+♦ HTTP/2 Request Smuggling
+
 
 
 

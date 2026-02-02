@@ -106,7 +106,9 @@
 ♦ Basic Malware RE \
 ♦ HTTP Request Smuggling \
 ♦ HTTP/2 Request Smuggling \
-♦ Year of the Rabbit
+♦ Linux Privilege Escalation
+
+<!-- ♦ Year of the Rabbit -->
 
 
 

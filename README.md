@@ -105,7 +105,9 @@
 ♦ MAL: Malware Introductory \
 ♦ Basic Malware RE \
 ♦ HTTP Request Smuggling \
-♦ HTTP/2 Request Smuggling
+♦ HTTP/2 Request Smuggling \
+♦ Year of the Rabbit
+
 
 
 

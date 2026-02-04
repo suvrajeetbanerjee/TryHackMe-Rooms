@@ -107,7 +107,8 @@
 ♦ HTTP Request Smuggling \
 ♦ HTTP/2 Request Smuggling \
 ♦ Linux Privilege Escalation \
-♦ Linux Incident Surface
+♦ Linux Incident Surface \
+♦ Linux Process Analysis
 
 
 <!-- ♦ Year of the Rabbit -->

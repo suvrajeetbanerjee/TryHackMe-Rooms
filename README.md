@@ -109,7 +109,9 @@
 ♦ Linux Privilege Escalation \
 ♦ Linux Incident Surface \
 ♦ Linux Process Analysis \
-♦ Windows Incident Surface
+♦ Windows Incident Surface \
+♦ Insecure Deserialisation
+
 
 <!-- ♦ Year of the Rabbit -->
 

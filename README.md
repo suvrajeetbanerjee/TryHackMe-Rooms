@@ -110,7 +110,9 @@
 ♦ Linux Incident Surface \
 ♦ Linux Process Analysis \
 ♦ Windows Incident Surface \
-♦ Insecure Deserialisation
+♦ Insecure Deserialisation \
+♦ AI/ML Security Threats
+
 
 
 <!-- ♦ Year of the Rabbit -->

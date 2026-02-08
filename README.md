@@ -111,7 +111,9 @@
 ♦ Linux Process Analysis \
 ♦ Windows Incident Surface \
 ♦ Insecure Deserialisation \
-♦ AI/ML Security Threats
+♦ AI/ML Security Threats \
+♦ Intro to Containerisation
+
 
 
 
@@ -242,4 +244,4 @@
 
 
 
-*Complete approach taken to solve the problem statements agsinst the tooms - to be shared soon !!!*
+<!-- *Complete approach taken to solve the problem statements agsinst the tooms - to be shared soon !!!* -->

@@ -112,7 +112,8 @@
 ♦ Windows Incident Surface \
 ♦ Insecure Deserialisation \
 ♦ AI/ML Security Threats \
-♦ Intro to Containerisation
+♦ Intro to Containerisation \
+♦ Linux Logs Investigations
 
 
 

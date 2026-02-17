@@ -114,7 +114,10 @@
 ♦ Insecure Deserialisation \
 ♦ AI/ML Security Threats \
 ♦ Intro to Containerisation \
-♦ Enumeration & Brute Force
+♦ Enumeration & Brute Force \
+♦ Intro to Docker \
+♦ Inside a Computer System
+
 
 <!-- ♦ Linux Logs Investigations -->
 

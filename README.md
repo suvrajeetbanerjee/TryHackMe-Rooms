@@ -116,7 +116,9 @@
 ♦ Intro to Containerisation \
 ♦ Enumeration & Brute Force \
 ♦ Intro to Docker \
-♦ Inside a Computer System
+♦ Inside a Computer System \
+♦ Operating Systems: Introduction
+
 
 
 <!-- ♦ Linux Logs Investigations -->

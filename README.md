@@ -117,7 +117,9 @@
 ♦ Enumeration & Brute Force \
 ♦ Intro to Docker \
 ♦ Inside a Computer System \
-♦ Operating Systems: Introduction
+♦ Operating Systems: Introduction \
+♦ Data Representation
+
 
 
 

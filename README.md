@@ -118,7 +118,9 @@
 ♦ Intro to Docker \
 ♦ Inside a Computer System \
 ♦ Operating Systems: Introduction \
-♦ Data Representation
+♦ Data Representation \
+♦ Data Encoding
+
 
 
 

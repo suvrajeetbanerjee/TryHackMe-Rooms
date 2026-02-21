@@ -119,7 +119,9 @@
 ♦ Inside a Computer System \
 ♦ Operating Systems: Introduction \
 ♦ Data Representation \
-♦ Data Encoding
+♦ Data Encoding \
+♦ Packets & Frames
+
 
 
 

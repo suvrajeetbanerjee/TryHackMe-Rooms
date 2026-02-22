@@ -30,7 +30,6 @@
 ♦ Search Skills \
 ♦ Active Directory Basics \
 ♦ Networking Concepts \
-♦ Cryptography Basics \
 ♦ Moniker Link (CVE-2024-21413) \
 ♦ Web Application Basics \
 ♦ Hydra \
@@ -120,7 +119,8 @@
 ♦ Operating Systems: Introduction \
 ♦ Data Representation \
 ♦ Data Encoding \
-♦ Packets & Frames
+♦ Packets & Frames \
+♦ Database SQL Basics
 
 
 
@@ -129,7 +129,7 @@
 
 <!-- ♦ Linux Logs Investigations -->
 
-
+<!-- ♦ Cryptography Basics \ -->
 
 
 <!-- ♦ Year of the Rabbit -->

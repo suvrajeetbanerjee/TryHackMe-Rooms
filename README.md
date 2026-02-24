@@ -121,7 +121,9 @@
 ♦ Data Encoding \
 ♦ Packets & Frames \
 ♦ Database SQL Basics \
-♦ Client-Server Basics
+♦ Client-Server Basics \
+♦ Network Services
+
 <!-- ♦ -->
 
 

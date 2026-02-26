@@ -123,7 +123,9 @@
 ♦ Database SQL Basics \
 ♦ Client-Server Basics \
 ♦ Network Services \
-♦ Network Services 2
+♦ Network Services 2 \
+♦ Metasploit: Introduction
+
 
 
 <!-- ♦ -->

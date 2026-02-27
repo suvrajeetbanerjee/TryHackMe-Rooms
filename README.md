@@ -124,7 +124,9 @@
 ♦ Client-Server Basics \
 ♦ Network Services \
 ♦ Network Services 2 \
-♦ Metasploit: Introduction
+♦ Metasploit: Introduction \
+♦ SQL Injection
+
 
 
 

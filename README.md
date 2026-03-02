@@ -126,7 +126,8 @@
 ♦ Network Services 2 \
 ♦ Metasploit: Introduction \
 ♦ SQL Injection \
-♦ Chaining Vulnerabilities
+♦ Chaining Vulnerabilities \
+♦ SDLC
 
 
 

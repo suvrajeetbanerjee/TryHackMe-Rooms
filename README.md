@@ -127,7 +127,9 @@
 ♦ Metasploit: Introduction \
 ♦ SQL Injection \
 ♦ Chaining Vulnerabilities \
-♦ SDLC
+♦ SDLC \
+♦ Intro to IaC
+
 
 
 

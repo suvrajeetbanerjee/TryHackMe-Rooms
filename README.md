@@ -128,8 +128,9 @@
 ♦ SQL Injection \
 ♦ Chaining Vulnerabilities \
 ♦ SDLC \
-♦ Intro to IaC
-
+♦ Intro to IaC \
+♦ Security Awareness
+ 
 
 
 ---

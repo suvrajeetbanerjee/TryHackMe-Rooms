@@ -129,7 +129,9 @@
 ♦ Chaining Vulnerabilities \
 ♦ SDLC \
 ♦ Intro to IaC \
-♦ Security Awareness
+♦ Security Awareness \
+♦ Intro to Endpoint Security
+
  
 
 

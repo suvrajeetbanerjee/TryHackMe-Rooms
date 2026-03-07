@@ -130,7 +130,9 @@
 ♦ SDLC \
 ♦ Intro to IaC \
 ♦ Security Awareness \
-♦ Intro to Endpoint Security
+♦ Intro to Endpoint Security \
+♦ Web Security Essentials
+
 
  
 

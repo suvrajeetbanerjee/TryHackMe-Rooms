@@ -131,7 +131,9 @@
 ♦ Intro to IaC \
 ♦ Security Awareness \
 ♦ Intro to Endpoint Security \
-♦ Web Security Essentials
+♦ Web Security Essentials \
+♦ Red Team Fundamentals
+
 
 
  

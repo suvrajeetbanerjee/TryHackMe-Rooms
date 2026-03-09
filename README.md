@@ -132,7 +132,9 @@
 ♦ Security Awareness \
 ♦ Intro to Endpoint Security \
 ♦ Web Security Essentials \
-♦ Red Team Fundamentals
+♦ Red Team Fundamentals \
+♦ Red Team Engagements
+
 
 
 

@@ -133,7 +133,9 @@
 ♦ Intro to Endpoint Security \
 ♦ Web Security Essentials \
 ♦ Red Team Fundamentals \
-♦ Red Team Engagements
+♦ Red Team Engagements \
+♦ Red Team Threat Intel
+
 
 
 

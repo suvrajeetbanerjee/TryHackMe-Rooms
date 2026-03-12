@@ -134,7 +134,9 @@
 ♦ Web Security Essentials \
 ♦ Red Team Fundamentals \
 ♦ Red Team Engagements \
-♦ Red Team Threat Intel
+♦ Red Team Threat Intel \
+♦ Intro to Logs
+
 
 
 

@@ -135,7 +135,9 @@
 ♦ Red Team Fundamentals \
 ♦ Red Team Engagements \
 ♦ Red Team Threat Intel \
-♦ Intro to Logs
+♦ Intro to Logs \
+♦ Log Operations
+
 
 
 

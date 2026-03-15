@@ -137,7 +137,9 @@
 ♦ Red Team Threat Intel \
 ♦ Intro to Logs \
 ♦ Log Operations \
-♦ Intro to Log Analysis
+♦ Intro to Log Analysis \
+♦ SSRF
+
 
 
 

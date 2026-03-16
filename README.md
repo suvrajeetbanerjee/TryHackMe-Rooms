@@ -138,7 +138,9 @@
 ♦ Intro to Logs \
 ♦ Log Operations \
 ♦ Intro to Log Analysis \
-♦ SSRF
+♦ SSRF \
+♦ Introduction to Antivirus
+
 
 
 

@@ -139,7 +139,9 @@
 ♦ Log Operations \
 ♦ Intro to Log Analysis \
 ♦ SSRF \
-♦ Introduction to Antivirus
+♦ Introduction to Antivirus \
+♦ Nmap Live Host Discovery
+
 
 
 

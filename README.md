@@ -140,7 +140,9 @@
 ♦ Intro to Log Analysis \
 ♦ SSRF \
 ♦ Introduction to Antivirus \
-♦ Nmap Live Host Discovery
+♦ Nmap Live Host Discovery \
+♦ IR Philosophy and Ethics
+
 
 
 

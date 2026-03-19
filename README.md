@@ -141,7 +141,9 @@
 ♦ SSRF \
 ♦ Introduction to Antivirus \
 ♦ Nmap Live Host Discovery \
-♦ IR Philosophy and Ethics
+♦ IR Philosophy and Ethics \
+♦ Intro to Cyber Threat Intel
+
 
 
 

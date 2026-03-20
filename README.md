@@ -142,7 +142,9 @@
 ♦ Introduction to Antivirus \
 ♦ Nmap Live Host Discovery \
 ♦ IR Philosophy and Ethics \
-♦ Intro to Cyber Threat Intel
+♦ Intro to Cyber Threat Intel \
+♦ Legal Considerations in DFIR
+
 
 
 

@@ -144,7 +144,9 @@
 ♦ IR Philosophy and Ethics \
 ♦ Intro to Cyber Threat Intel \
 ♦ Legal Considerations in DFIR \
-♦ IR Playbooks
+♦ IR Playbooks \
+♦ Forensic Imaging
+
 
 
 

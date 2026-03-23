@@ -145,7 +145,9 @@
 ♦ Intro to Cyber Threat Intel \
 ♦ Legal Considerations in DFIR \
 ♦ IR Playbooks \
-♦ Forensic Imaging
+♦ Forensic Imaging \
+♦ Detecting Web Attacks
+
 
 
 

@@ -146,7 +146,9 @@
 ♦ Legal Considerations in DFIR \
 ♦ IR Playbooks \
 ♦ Forensic Imaging \
-♦ Detecting Web Attacks
+♦ Detecting Web Attacks \
+♦ Threat Hunting: Introduction
+
 
 
 

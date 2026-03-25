@@ -147,7 +147,9 @@
 ♦ IR Playbooks \
 ♦ Forensic Imaging \
 ♦ Detecting Web Attacks \
-♦ Threat Hunting: Introduction
+♦ Threat Hunting: Introduction \
+♦ Threat Hunting: Foothold
+
 
 
 

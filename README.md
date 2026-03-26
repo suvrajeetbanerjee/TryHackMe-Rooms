@@ -148,7 +148,9 @@
 ♦ Forensic Imaging \
 ♦ Detecting Web Attacks \
 ♦ Threat Hunting: Introduction \
-♦ Threat Hunting: Foothold
+♦ Threat Hunting: Foothold \
+♦ Basic Pentesting
+
 
 
 

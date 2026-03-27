@@ -149,7 +149,9 @@
 ♦ Detecting Web Attacks \
 ♦ Threat Hunting: Introduction \
 ♦ Threat Hunting: Foothold \
-♦ Basic Pentesting
+♦ Basic Pentesting \
+♦ Volatility Essentials
+ 
 
 
 

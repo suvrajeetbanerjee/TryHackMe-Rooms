@@ -151,7 +151,9 @@
 ♦ Threat Hunting: Foothold \
 ♦ Basic Pentesting \
 ♦ Volatility Essentials \
-♦ GeoServer: CVE-2025-58360
+♦ GeoServer: CVE-2025-58360 \
+♦ XDR: Introduction
+
 
  
 

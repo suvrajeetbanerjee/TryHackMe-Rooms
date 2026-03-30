@@ -152,7 +152,9 @@
 ♦ Basic Pentesting \
 ♦ Volatility Essentials \
 ♦ GeoServer: CVE-2025-58360 \
-♦ XDR: Introduction
+♦ XDR: Introduction \
+♦ Windows Forensics 1
+
 
 
  

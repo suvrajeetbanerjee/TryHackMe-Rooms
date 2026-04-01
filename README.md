@@ -154,7 +154,9 @@
 ♦ GeoServer: CVE-2025-58360 \
 ♦ XDR: Introduction \
 ♦ Windows Forensics 1 \
-♦ Common Attacks
+♦ Common Attacks \
+♦ XSS
+
 
 
 

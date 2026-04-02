@@ -155,7 +155,10 @@
 ♦ XDR: Introduction \
 ♦ Windows Forensics 1 \
 ♦ Common Attacks \
-♦ XSS
+♦ XSS \
+♦ Threat Intelligence Tools
+
+<!-- ♦ Kenobi -->
 
 
 

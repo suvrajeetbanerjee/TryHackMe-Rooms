@@ -156,13 +156,8 @@
 ♦ Windows Forensics 1 \
 ♦ Common Attacks \
 ♦ XSS \
-♦ Threat Intelligence Tools
-
-<!-- ♦ Kenobi -->
-
-
-
-
+♦ Threat Intelligence Tools \
+♦ Kenobi
 
  
 

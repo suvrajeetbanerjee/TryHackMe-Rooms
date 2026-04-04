@@ -157,7 +157,9 @@
 ♦ Common Attacks \
 ♦ XSS \
 ♦ Threat Intelligence Tools \
-♦ Kenobi
+♦ Kenobi \
+♦ OpenVAS
+ 
 
  
 

@@ -158,8 +158,9 @@
 ♦ XSS \
 ♦ Threat Intelligence Tools \
 ♦ Kenobi \
-♦ OpenVAS
- 
+♦ OpenVAS \
+♦ DFIR: An Introduction
+
 
  
 

@@ -159,7 +159,10 @@
 ♦ Threat Intelligence Tools \
 ♦ Kenobi \
 ♦ OpenVAS \
-♦ DFIR: An Introduction
+♦ DFIR: An Introduction \
+♦ Preparation
+
+
 
 
  

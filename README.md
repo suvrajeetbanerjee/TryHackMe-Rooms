@@ -160,7 +160,9 @@
 ♦ Kenobi \
 ♦ OpenVAS \
 ♦ DFIR: An Introduction \
-♦ Preparation
+♦ Preparation \
+♦ Phishing Emails in Action
+
 
 
 

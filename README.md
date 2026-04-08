@@ -162,7 +162,8 @@
 ♦ DFIR: An Introduction \
 ♦ Preparation \
 ♦ Phishing Emails in Action \
-♦ Overpass
+♦ File and Hash Threat Intel
+
 
 
 

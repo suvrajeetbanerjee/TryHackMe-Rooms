@@ -162,7 +162,9 @@
 ♦ DFIR: An Introduction \
 ♦ Preparation \
 ♦ Phishing Emails in Action \
-♦ File and Hash Threat Intel
+♦ File and Hash Threat Intel \
+♦ x86 Architecture Overview
+
 
 
 

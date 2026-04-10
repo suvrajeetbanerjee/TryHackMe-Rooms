@@ -164,7 +164,9 @@
 ♦ Phishing Emails in Action \
 ♦ File and Hash Threat Intel \
 ♦ x86 Architecture Overview \
-♦ Attacktive Directory
+♦ Red Team OPSEC
+
+<!-- ♦ Attacktive Directory  -->
 
 
 

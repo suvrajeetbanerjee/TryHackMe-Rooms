@@ -164,7 +164,9 @@
 ♦ Phishing Emails in Action \
 ♦ File and Hash Threat Intel \
 ♦ x86 Architecture Overview \
-♦ Red Team OPSEC
+♦ Red Team OPSEC \
+♦ IR Timeline Analysis
+
 
 <!-- ♦ Attacktive Directory  -->
 

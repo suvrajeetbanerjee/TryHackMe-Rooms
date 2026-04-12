@@ -165,7 +165,9 @@
 ♦ File and Hash Threat Intel \
 ♦ x86 Architecture Overview \
 ♦ Red Team OPSEC \
-♦ IR Timeline Analysis
+♦ IR Timeline Analysis \
+♦ Monitoring Active Directory
+
 
 
 <!-- ♦ Attacktive Directory  -->

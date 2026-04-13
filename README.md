@@ -166,7 +166,9 @@
 ♦ x86 Architecture Overview \
 ♦ Red Team OPSEC \
 ♦ IR Timeline Analysis \
-♦ Monitoring Active Directory
+♦ Monitoring Active Directory \
+♦ FAT32 Analysis
+
 
 
 

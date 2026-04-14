@@ -167,7 +167,9 @@
 ♦ Red Team OPSEC \
 ♦ IR Timeline Analysis \
 ♦ Monitoring Active Directory \
-♦ FAT32 Analysis
+♦ FAT32 Analysis \
+♦ Overpass
+
 
 
 

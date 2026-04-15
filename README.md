@@ -168,7 +168,9 @@
 ♦ IR Timeline Analysis \
 ♦ Monitoring Active Directory \
 ♦ FAT32 Analysis \
-♦ Web Application Security
+♦ Web Application Security \
+♦ AI Models & Data
+
 
 
 

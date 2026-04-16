@@ -169,7 +169,9 @@
 ♦ Monitoring Active Directory \
 ♦ FAT32 Analysis \
 ♦ Web Application Security \
-♦ AI Models & Data
+♦ AI Models & Data \
+♦ Prompt Engineering
+
 
 
 

@@ -171,7 +171,8 @@
 ♦ Web Application Security \
 ♦ AI Models & Data \
 ♦ Prompt Engineering \
-♦ AI Forensics
+♦ AI Forensics \
+♦ Securing AI Systems
 
 
 

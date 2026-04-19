@@ -172,7 +172,9 @@
 ♦ AI Models & Data \
 ♦ Prompt Engineering \
 ♦ AI Forensics \
-♦ Securing AI Systems
+♦ Securing AI Systems \
+♦ LLM Security
+
 
 
 

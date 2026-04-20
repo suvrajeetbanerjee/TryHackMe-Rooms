@@ -173,7 +173,9 @@
 ♦ Prompt Engineering \
 ♦ AI Forensics \
 ♦ Securing AI Systems \
-♦ LLM Security
+♦ LLM Security \
+♦ AI Threat Modelling
+
 
 
 

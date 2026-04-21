@@ -174,7 +174,9 @@
 ♦ AI Forensics \
 ♦ Securing AI Systems \
 ♦ LLM Security \
-♦ AI Threat Modelling
+♦ AI Threat Modelling \
+♦ ContAInment
+
 
 
 

@@ -175,7 +175,8 @@
 ♦ Securing AI Systems \
 ♦ LLM Security \
 ♦ AI Threat Modelling \
-♦ ContAInment
+♦ AI System Reconnaissance
+
 
 
 

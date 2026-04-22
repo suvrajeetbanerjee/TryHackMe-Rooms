@@ -175,7 +175,9 @@
 ♦ Securing AI Systems \
 ♦ LLM Security \
 ♦ AI Threat Modelling \
-♦ AI System Reconnaissance
+♦ AI System Reconnaissance \
+♦ SOC L1 Alert Triage
+
 
 
 

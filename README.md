@@ -179,7 +179,9 @@
 ♦ SOC L1 Alert Triage \
 ♦ SOC L1 Alert Reporting \
 ♦ Identification & Scoping \
-♦ Redline
+♦ Redline \
+♦ OWASP Top 10 2025: IAAA Failures
+
 
 
 

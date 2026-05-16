@@ -310,7 +310,7 @@
 - 📌 C2 Detection - Command & Carol
 - 📌 AWS Security - S3cret Santa
 - 📌 Exploitation with cURL - Hoperation Eggsploit
-
+- 📌 SOC Role in Blue Team
 
 
 

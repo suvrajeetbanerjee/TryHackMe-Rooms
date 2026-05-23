@@ -183,7 +183,9 @@
 ♦ OWASP Top 10 2025: IAAA Failures \
 ♦ OWASP Top 10 2025: Application Design Flaws \
 ♦ Wazuh \
-♦ Guided Pentest: Web
+♦ Guided Pentest: Web \
+♦ Guided Pentest: Infrastructure
+
 
 
 

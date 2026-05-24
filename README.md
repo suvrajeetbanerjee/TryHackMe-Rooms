@@ -184,7 +184,9 @@
 ♦ OWASP Top 10 2025: Application Design Flaws \
 ♦ Wazuh \
 ♦ Guided Pentest: Web \
-♦ Guided Pentest: Infrastructure
+♦ Guided Pentest: Infrastructure \
+♦ Dive Into Pentesting
+
 
 
 

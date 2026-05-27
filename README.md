@@ -185,7 +185,9 @@
 ♦ Wazuh \
 ♦ Guided Pentest: Web \
 ♦ Guided Pentest: Infrastructure \
-♦ Dive Into Pentesting
+♦ Dive Into Pentesting \
+♦ Nmap Basic Port Scans
+
 
 
 

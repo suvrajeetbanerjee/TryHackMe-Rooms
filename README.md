@@ -186,7 +186,9 @@
 ♦ Guided Pentest: Web \
 ♦ Guided Pentest: Infrastructure \
 ♦ Dive Into Pentesting \
-♦ Nmap Basic Port Scans
+♦ Nmap Basic Port Scans \
+♦ Phishing Basics
+
 
 
 

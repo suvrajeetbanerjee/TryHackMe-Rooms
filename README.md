@@ -187,7 +187,9 @@
 ♦ Guided Pentest: Infrastructure \
 ♦ Dive Into Pentesting \
 ♦ Nmap Basic Port Scans \
-♦ Phishing Basics
+♦ Phishing Basics \
+♦ Understanding Vulnerability Databases
+
 
 
 

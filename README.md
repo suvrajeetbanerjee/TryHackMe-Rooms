@@ -188,7 +188,8 @@
 ♦ Dive Into Pentesting \
 ♦ Nmap Basic Port Scans \
 ♦ Phishing Basics \
-♦ Understanding Vulnerability Databases
+♦ Understanding Vulnerability Databases \
+♦ Python: Core Concepts
 
 
 

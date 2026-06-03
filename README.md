@@ -189,7 +189,9 @@
 ♦ Nmap Basic Port Scans \
 ♦ Phishing Basics \
 ♦ Understanding Vulnerability Databases \
-♦ Python: Core Concepts
+♦ Python: Core Concepts \
+♦ Host-Server Configuration Reviews
+
 
 
 

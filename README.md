@@ -190,7 +190,9 @@
 ♦ Phishing Basics \
 ♦ Understanding Vulnerability Databases \
 ♦ Python: Core Concepts \
-♦ Host-Server Configuration Reviews
+♦ Host-Server Configuration Reviews \
+♦ Intro to Detection Engineering
+
 
 
 

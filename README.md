@@ -192,7 +192,9 @@
 ♦ Python: Core Concepts \
 ♦ Host-Server Configuration Reviews \
 ♦ Intro to Detection Engineering \
-♦ Threat Intelligence for SOC
+♦ Threat Intelligence for SOC \
+♦ Wireless Security
+
 
 
 

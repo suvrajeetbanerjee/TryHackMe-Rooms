@@ -193,7 +193,9 @@
 ♦ Host-Server Configuration Reviews \
 ♦ Intro to Detection Engineering \
 ♦ Threat Intelligence for SOC \
-♦ Wireless Security
+♦ Wireless Security \
+♦ Intro to AD Authentication
+
 
 
 

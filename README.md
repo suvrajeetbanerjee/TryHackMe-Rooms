@@ -194,7 +194,9 @@
 ♦ Intro to Detection Engineering \
 ♦ Threat Intelligence for SOC \
 ♦ Wireless Security \
-♦ Intro to AD Authentication
+♦ Intro to AD Authentication \
+♦ Metasploit: The Basics
+
 
 
 

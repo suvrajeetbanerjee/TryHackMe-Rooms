@@ -195,7 +195,9 @@
 ♦ Threat Intelligence for SOC \
 ♦ Wireless Security \
 ♦ Intro to AD Authentication \
-♦ Metasploit: The Basics
+♦ Metasploit: The Basics \
+♦ Intro to AD Breaching
+
 
 
 

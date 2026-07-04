@@ -196,8 +196,8 @@
 ♦ Wireless Security \
 ♦ Intro to AD Authentication \
 ♦ Metasploit: The Basics \
-♦ Intro to AD Breaching
-
+♦ Intro to AD Breaching \
+♦ Kape
 
 
 

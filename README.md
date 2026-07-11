@@ -197,7 +197,9 @@
 ♦ Intro to AD Authentication \
 ♦ Metasploit: The Basics \
 ♦ Intro to AD Breaching \
-♦ Kape
+♦ Kape \
+♦ DevSecOps Basics
+
 
 
 

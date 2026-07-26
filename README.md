@@ -199,7 +199,9 @@
 ♦ Intro to AD Breaching \
 ♦ Kape \
 ♦ DevSecOps Basics \
-♦ SOC Fundamentals
+♦ SOC Fundamentals \
+♦ OWASP Top 10 2025: Insecure Data Handling
+
 
 
 

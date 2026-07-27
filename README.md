@@ -200,7 +200,8 @@
 ♦ Kape \
 ♦ DevSecOps Basics \
 ♦ SOC Fundamentals \
-♦ OWASP Top 10 2025: Insecure Data Handling
+♦ OWASP Top 10 2025: Insecure Data Handling \
+😁 No more free rooms left😁
 
 
 

@@ -353,7 +353,7 @@
 
  #### 🗡💡 Hacker Holidays 2026 🛢🏆
 
-
+- 📌 Completed rooms' details will be updated soon!
 
 
 

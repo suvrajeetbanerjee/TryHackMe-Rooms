@@ -353,13 +353,27 @@
 
  #### 🗡💡 Hacker Holidays 2026 🛢🏆
 
-- 📌 Completed rooms' details will be updated soon!
+<!-- - 📌 Completed rooms' details will be updated soon! -->
+
+
+- 📌 The Concierge Knows Too Much
+- 📌 Room 404
+- 📌 Complimentary
+- 📌 Packed Light
+- 📌 Beach Bar
+- 📌 Overheard at Breakfast
+- 📌 Do Not Disturb
+- 📌 Towel on the Sunbed
+- 📌 CryptoCabana
+- 📌 The Hollow Shell
+- 📌 Infinity Pool
+- 📌 After Hours
+- 📌 The Guestbook
+- 📌 Management Wants a Word
 
 
 
-
-
-
+---
 
 
 

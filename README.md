@@ -201,7 +201,8 @@
 ♦ DevSecOps Basics \
 ♦ SOC Fundamentals \
 ♦ OWASP Top 10 2025: Insecure Data Handling \
-♦ AI Security Threats
+♦ AI Security Threats \
+♦ AI Threat Modelling Assessment
 
 😁 No more free rooms left😁
 

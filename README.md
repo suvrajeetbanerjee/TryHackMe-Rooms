@@ -202,7 +202,9 @@
 ♦ SOC Fundamentals \
 ♦ OWASP Top 10 2025: Insecure Data Handling \
 ♦ AI Security Threats \
-♦ AI Threat Modelling Assessment
+♦ AI Threat Modelling Assessment \
+♦ The Building Blocks of AI
+
 
 😁 No more free rooms left😁
 

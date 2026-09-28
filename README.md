@@ -203,7 +203,9 @@
 ♦ OWASP Top 10 2025: Insecure Data Handling \
 ♦ AI Security Threats \
 ♦ AI Threat Modelling Assessment \
-♦ The Building Blocks of AI
+♦ The Building Blocks of AI \
+♦ Agent Design
+
 
 
 😁 No more free rooms left😁

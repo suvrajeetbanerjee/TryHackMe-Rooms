@@ -204,7 +204,8 @@
 ♦ AI Security Threats \
 ♦ AI Threat Modelling Assessment \
 ♦ The Building Blocks of AI \
-♦ Agent Design
+♦ Agent Design \
+♦ Spring AI: CVE-2026-22738
 
 
 

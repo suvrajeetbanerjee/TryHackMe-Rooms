@@ -206,7 +206,9 @@
 ♦ The Building Blocks of AI \
 ♦ Agent Design \
 ♦ Spring AI: CVE-2026-22738 \
-♦ Agent Discovery 
+♦ Agent Discovery \
+♦ AD: Basic Enumeration
+
 
 
 

@@ -207,7 +207,9 @@
 ♦ Agent Design \
 ♦ Spring AI: CVE-2026-22738 \
 ♦ Agent Discovery \
-♦ AD: Basic Enumeration
+♦ AD: Basic Enumeration \
+♦ Network Room Guide
+
 
 
 

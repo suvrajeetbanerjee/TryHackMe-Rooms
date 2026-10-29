@@ -208,7 +208,9 @@
 ♦ Spring AI: CVE-2026-22738 \
 ♦ Agent Discovery \
 ♦ AD: Basic Enumeration \
-♦ Network Room Guide
+♦ Network Room Guide \
+♦ Intro to Digital Forensics
+
 
 
 
